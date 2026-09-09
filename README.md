@@ -1,16 +1,22 @@
-# React + Vite
+# ⏰ Digital Clock App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern digital clock application built with **React** and **Vite**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Technologies Used
 
-## React Compiler
+* **React** (UI Library)
+* **Vite** (Next Generation Frontend Tooling)
+* **CSS3** (Styling & Custom Gradients)
+* **JavaScript (ES6+)**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ How to Run Locally
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Follow these steps to run the project on your machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/haniehkaramii/digital-clock.git](https://github.com/haniehkaramii/digital-clock.git)
