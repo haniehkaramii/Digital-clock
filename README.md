@@ -7,7 +7,7 @@ A sleek and modern digital clock application built with **React** and **Vite**.
 ## 🚀 Technologies Used
 
 * **React** (UI Library)
-* **Vite** (Next Generation Frontend Tooling)
+* **Vite** (Next Generation Front-end Tooling)
 * **CSS3** (Styling & Custom Gradients)
 * **JavaScript (ES6+)**
 
